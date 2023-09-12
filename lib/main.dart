@@ -36,7 +36,7 @@ class MainApp extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        'Chibike',
+                        'chinedu',
                         style: TextStyle(
                           color: Colors.blue,
                           fontWeight: FontWeight.bold,
